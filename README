@@ -21,3 +21,6 @@ may need to edit coverage.py to work in your environment.  This
 coverage.py script uses PyMox and the excellent code coverage script
 found here: http://code.google.com/p/pymox/
 http://nedbatchelder.com/code/modules/coverage.html
+
+Adjusted by Dirk Podolak to
+- work with SDK 1.8.8 (for me on linux)
